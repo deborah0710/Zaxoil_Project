@@ -9,4 +9,18 @@ The primary dataset used for this analysis was obtained from the database, "zaxo
 ### Tools
 - SQL- Data cleaning and analysis
 
+### Data Cleaning/Preparation
+In the initial data preparation phase, I performed the following tasks:
+
+1. Data inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
+4. Exploratory Data Analysis
+
+### Exploratory Data Analysis
+EDA involved exploring the data to answer key questions, such as:
+
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the peak sales periods?
 
