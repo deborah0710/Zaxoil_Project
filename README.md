@@ -29,3 +29,13 @@ EDA involved exploring the data to answer key questions, such as:
 ### Data Analysis
 Here are some of the codes I worked with in abid to answer the key questions from the EDA:
 ```SQL
+with cte_Staff as
+(select count(department) as dept_count, department
+from zaxoil.staff
+group by department
+)
+select (dept_count/28)*100 as percent_dept, department 
+from cte_Staff
+group by department
+order by percent_dept desc;
+```
