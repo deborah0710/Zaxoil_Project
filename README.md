@@ -26,3 +26,6 @@ EDA involved exploring the data to answer key questions, such as:
 4. How does the hiring timeline reflect the company's growth and staffing needs?
 5. What is the average tenure of employees across different departments or positions?
 
+### Data Analysis
+Here are some of the codes I worked with in abid to answer the key questions from the EDA:
+```SQL
