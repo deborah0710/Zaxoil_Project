@@ -51,3 +51,5 @@ select position, department, location, substring(date_hired,1,4) as year_hired
 from zaxoil.staff
 order by year_hired;
 ```
+
+### Results and Findings
