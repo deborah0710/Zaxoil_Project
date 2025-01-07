@@ -39,3 +39,15 @@ from cte_Staff
 group by department
 order by percent_dept desc;
 ```
+
+``` SQL
+select position, salary, avg(salary)OVER (PARTITION BY position) as avg_salary  
+from zaxoil.staff
+order by avg_salary desc;
+```
+
+``` SQL
+select position, department, location, substring(date_hired,1,4) as year_hired
+from zaxoil.staff
+order by year_hired;
+```
