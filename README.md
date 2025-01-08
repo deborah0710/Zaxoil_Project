@@ -56,3 +56,6 @@ order by year_hired;
 - It is discovered that the most of the employyes are in the Drilling dept with 21% of total population, followed by Maintenance, Exploration and Production departments while the Operations and Engineering had the least number of employees.
 - The Managers in the Engineering Department at the HQ earned the most salary, whie the Technicians earned the least salary.
 - The Technicians across various departments and location have been the longest serving staff with an avarage tenure of 5 years.
+
+### Conclusion
+This was an Exploratory Data Analysis aimed at invetigating data so as to understand patterns, relationshipsand trends which could aid decision making in the company where necessary.
