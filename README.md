@@ -53,5 +53,6 @@ order by year_hired;
 ```
 
 ### Results and Findings
-- It is discovered that the most employees was in the Drilling dept with 21%, followed by Maintenance, Exploration and Production departments while the Operations and Engineering had the least number of employees.
+- It is discovered that the most of the employyes are in the Drilling dept with 21% of total population, followed by Maintenance, Exploration and Production departments while the Operations and Engineering had the least number of employees.
 - The Managers in the Engineering Department at the HQ earned the most salary, whie the Technicians earned the least salary.
+- 
